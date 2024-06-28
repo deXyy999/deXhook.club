@@ -1,2 +1,3 @@
 # deXhook.club
-Private UD CS cheese
+Private CS cheese
+> discontinued, visit https://desolate.us for more
